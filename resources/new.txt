@@ -1,1 +1,1 @@
-tex
+this is the resources file, unzip to open
